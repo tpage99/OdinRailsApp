@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Progress on Odin Project Course
+
+https://www.theodinproject.com/lessons/ruby-on-rails-routing 
